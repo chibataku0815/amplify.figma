@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifystudiofigma-staging-85605-authRole",
+      "UnauthRoleArn": "arn:aws:iam::135405249545:role/amplify-amplifystudiofigma-staging-85605-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::135405249545:role/amplify-amplifystudiofigma-staging-85605-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifystudiofigma-staging-85605-deployment",
+      "UnauthRoleName": "amplify-amplifystudiofigma-staging-85605-unauthRole",
+      "StackName": "amplify-amplifystudiofigma-staging-85605",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:135405249545:stack/amplify-amplifystudiofigma-staging-85605/ad5bb0f0-e66b-11ed-8e28-0e106f0bef87",
+      "AmplifyAppId": "d3sdrwdhfypsfk"
+    }
+  }
+}
