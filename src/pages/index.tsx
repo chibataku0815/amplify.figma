@@ -1,5 +1,5 @@
 import styles from '@/styles/Home.module.css'
-import { HeroLayout1 } from '@/ui-components'
+import { Ampligram, HeroLayout1 } from '@/ui-components'
 import { Inter } from 'next/font/google'
 import Head from 'next/head'
 
@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <HeroLayout1 />
       <main className={`${styles.main} ${inter.className}`}>
-
+        <Ampligram />
       </main>
     </>
   )
